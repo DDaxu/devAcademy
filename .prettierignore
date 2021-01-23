@@ -1,0 +1,4 @@
+# Ignore:
+names.json
+package.jsonpackage-lock.json
+.gitignore
